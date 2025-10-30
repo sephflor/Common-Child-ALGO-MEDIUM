@@ -1,1 +1,1 @@
-# Common-Child-ALGO-MEDIUM
+# Common-Child-ALGO-MEDIUM.The function uses a dynamic programming table dp where dp[i,j] stores the length of the longest common subsequence of the first i characters of s1 and first j characters of s2, computing the LCS efficiently by building up from smaller subproblems.
